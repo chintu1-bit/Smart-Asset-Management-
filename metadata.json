@@ -1,0 +1,10 @@
+{
+  "name": "Smart Asset Management",
+  "description": "Comprehensive resource allocation, real-time inventory tracking, and booking platform with role-based access, analytics, and audit logging.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
